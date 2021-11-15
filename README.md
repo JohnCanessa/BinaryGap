@@ -7,7 +7,7 @@ If inetersted please visit the Codility_ web site and read the problem decriptio
 Give it a try and if you wish to see my approach and comments, I invite you to
 visit ythe following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/11/16/binary-gap/
 
 Keep in mind that one of the best ways to learn and refresh concepts is to
 read and experiment. Practice makes perfect.
